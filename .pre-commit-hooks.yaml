@@ -1,0 +1,6 @@
+-   id: nbstripout-conda
+    name: nbstripout-conda
+    description: 'nbstripout: strip output from Jupyter and IPython notebooks'
+    entry: nbstripout
+    language: conda
+    types: [jupyter]
